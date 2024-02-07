@@ -1,1 +1,3 @@
-# sem-5-php-project
+# mahavir namkeen & fryums
+e-commerce site 
+with html+css+javascript+php+mysql
